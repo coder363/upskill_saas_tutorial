@@ -32,6 +32,10 @@ background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, F
 	border:none;
 }
 
+.navbar-brand {
+	font-family: sans-serif
+}
+
 //Home page styles
 .home-callout {
     color:white;
